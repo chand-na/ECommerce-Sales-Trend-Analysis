@@ -22,7 +22,7 @@ This project presents a sales trend analysis using an e-commerce dataset. The da
 1. Load the provided SQL script into your MySQL interface (e.g., Workbench).
 2. Run queries step-by-step to observe transformations and generate result tables.
 3. Export results as CSV or copy them directly into the Word report.
-4. Use the Word report for insights and submission.
+4. Use the PDF report for insights and submission.
 
 ## 🧹 Notes on Data Cleaning
 
